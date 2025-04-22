@@ -1,6 +1,6 @@
 # Roll_dice
 
-A new Flutter project.
+Roll_dice is a simpale flutter project that shows a dice in the UI, and when wen press the button in the UI, the dice shows a randome side of the dice. It uses the basic but few very important concepts in the flutter.
 
 ## Getting Started
 
